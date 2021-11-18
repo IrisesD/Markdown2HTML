@@ -1,2 +1,3 @@
 # Markdown2HTML
-A tool that can transform .md to .html
+A simple tool that can transform .md to .html
+Support transform format:Text、Headers、List、Images、Links、Code
